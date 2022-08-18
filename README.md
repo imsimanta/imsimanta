@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Simanta Choudhury</h1>
-<h3 align="center">🔭 Welcome to my "Portfolio" .....!!!!</h3>
+<h3 align="center"> 💫 Welcome to my "Portfolio" .....!!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsimanta&label=Profile%20views&color=0e75b6&style=flat" alt="imsimanta" /> </p>
 
