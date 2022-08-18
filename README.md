@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **deploy cloud infrastructure**
 
-- ⚡ Fun fact [I spend almost 12 hours listening to songs every day](I spend almost 12 hours listening to songs every day)
+- ⚡ Fun fact I sometimes spend almost 12 hours listening to songs every day
 
 - 💬 Ask me about **tech-related stuff**
 
