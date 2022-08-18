@@ -1,9 +1,5 @@
 <h1 align="center">Hola 👋, I'm Simanta Choudhury</h1>
-<h3 align="center"> 💫 Welcome to my "Portfolio" .....!!!!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsimanta&label=Profile%20views&color=0e75b6&style=flat" alt="imsimanta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsimanta" alt="imsimanta" /></a> </p>
+<h3 align="center">🔭 Welcome to my "Portfolio" .....!!!!</h3>
 
 - 🔭 I’m currently working on **Refinitiv(LSEG) project**
 
@@ -13,7 +9,7 @@
 
 - 🤝 I’m looking for help with **deploy cloud infrastructure**
 
-- ⚡ Fun fact I spend almost 12 hours listening to songs every day
+- ⚡ Fun fact [I spend almost 12 hours listening to songs every day](I spend almost 12 hours listening to songs every day)
 
 - 💬 Ask me about **tech-related stuff**
 
@@ -21,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/simanta-choudhury-0b5559152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/simanta-choudhury-0b5559152" height="30" width="40" /></a>
-<a href="https://fb.com/simanta choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simanta choudhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simantachoudhury27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simantachoudhury27" height="30" width="40" /></a>
+<a href="https://fb.com/simantachoudhury27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simantachoudhury27" height="30" width="40" /></a>
 <a href="https://instagram.com/simanta_choudhury27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simanta_choudhury27" height="30" width="40" /></a>
 </p>
 
