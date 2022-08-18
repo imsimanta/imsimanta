@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Simanta Choudhury</h1>
-<h3 align="center">🔭 Welcome to my "Portfolio" .....!!!!</h3>
+<h3 align="center">💫 About my "Portfolio" .....!!!!</h3>
 
 - 🔭 I’m currently working on **Refinitiv(LSEG) project**
 
