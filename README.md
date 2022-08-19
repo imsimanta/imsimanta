@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **simantachoudhury27@gmail.com**
 
-- 👨‍💻 all my record available at **<a href = https://https://imsimanta.github.io/> </a>**
+- 👨‍💻 all my record available at **https://imsimanta.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
