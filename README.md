@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **simantachoudhury27@gmail.com**
 
+- 👨‍💻 all my record available at **<a href = https://https://imsimanta.github.io/> </a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simantachoudhury27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simantachoudhury27" height="30" width="40" /></a>
